@@ -7,3 +7,10 @@
 
 
 ***** 매주 목요일 (시가 미정) ZOOM이나 보톡으로 코드리뷰 *****
+
+
+git clone {http주소}
+git checkout -b {브랜치명}
+git add -A
+git commit -m"메세지 입력"
+git push origin {브랜치명}
